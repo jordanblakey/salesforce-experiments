@@ -40,3 +40,7 @@ https://developer.salesforce.com/docs/platform/lwc/guide/debug-mode-enable.html
 # DevTools console filter list for LWC Debug Mode - very noisy by default, but useful for inspecting objects, cache busting, etc.
 -O11Y -ltng -[ORCHESTRATION] -[Report -empApi -apple-mobile -ComponentProfiler -WARNING -enableReactiveCarousel
 ```
+
+## Testing Components
+
+https://developer.salesforce.com/docs/platform/lwc/guide/testing.html
